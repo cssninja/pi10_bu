@@ -1,4 +1,4 @@
-<img src="rm_content/hr_large2.jpg" alt="My cool logo"/>
+<img src="../rm_content/hr_large2.jpg" alt="My cool logo"/>
 
 Work for Brian Schulz (former co-owner of Hernandez Roofing, see note below) including the following:
 
