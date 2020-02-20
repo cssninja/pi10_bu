@@ -1,0 +1,313 @@
+This experience details Q & A covers the following topics:
+
+-- Product design
+-- Best practices of web-based UI design
+-- Translating high-level requirements
+-- Collaboration
+-- Analyze requirements
+-- UI design style guidelines, best practices and standards
+-- Visual design
+-- Information architecture
+-- Storyboards to UI wireframes and mockups
+-- Design UI screens and templates
+-- UI patterns and UI component reuse
+-- Independently and within a highly collaborative team
+-- User-centered design
+-- Responsive design
+-- Graphic design
+-- Design fundamentals
+-- Responsive typography
+-- HTML, CSS (SASS or LESS), JavaScript, Angular and React
+-- Prototyping tools
+-- Agile
+-- Front-end frameworks
+-- Hourly rate
+-- Samples
+
+
+
+--------------------------------
+What is your experience as a PRODUCT DESIGNER creating user experiences [1] including total time you have done this work [2]?
+--------------------------------
+
+[1] 'Product design' really includes all aspects of the design process: Visual Design. UI Design and UX Design .. but the heart of all of my design is targeting the BEHAVIOR of the user pretty much, so I've focused on very important aspects of overall design with user behavior in mind, such as:
+
+- simplicity and uncluttered layout
+- minimal color palette
+- easy to read font size
+- the frequent use of flat design
+- flexible but unified brand language (or guidelines)
+- deployed information architecture in content, navigation and information flow in all layouts that is easy to understand and use
+- a mobile first approach
+- concatenated, minified and well placed code (plus other techniques) for uncomplicated and fast DOM loading, shooting for better user retention and reduced bounce rate (because most users consider a wait time over 3 seconds an eternity)
+- user research and ethnography studies to develop tailored content to 'delight the user' for higher user retention and reduced bounce rate
+- and of course attractive illustrations and graphic design
+
+These are a few core principles (among many others) of overall design that appeal to user behavior which I always endeavor to practice.
+
+[2] 13 years.
+
+
+
+--------------------------------
+How well versed are you in BEST PRACTICES OF WEB-BASED UI DESIGN [1], and how long [2[?
+--------------------------------
+
+[1] Yes and always learning .. as the upcoming 'decentralized web' (which I am helping to build) may well include a new set of best practices for the new blockchain-based UI's that are emerging. For instance the 'visual representation of data' will play a more prominent role in UI design than it does today. In that case you'd want to see a visual map of peer-to-peer networks and mega networks, seeing all this data is no longer bottlenecked in centralized locations as Google and such. Such visual representations may use JavaScript + HTML5 canvas, among other techniques.
+
+[2] 13 years.
+
+
+
+--------------------------------
+What is your experience TRANSLATING HIGH-LEVEL REQUIREMENTS into interaction flow diagrams, mockups and transforming them into intuitive and functional user interfaces [1] .. and the total time [2]?
+--------------------------------
+
+[1] I endeavor to use multiple techniques to begin the 'journey' and then document the complete the end-to-end process, from old school pencil and paper to whiteboarding to Photoshop layouts to Sketch, whichever process creatively works best for that particular client.
+
+Importantly .. I endeavour to 'sweat the details' of incremental + overall user experiences .. thinking through (and feeling) all the flows. This is then accompanied by extensive user testing pre-launch. 
+
+[2] 13 years.
+
+
+
+--------------------------------
+Describe your experience (a) with each of the following [1-9] including the last time you have worked with each (b) and the total time overall (c):
+--------------------------------
+
+[1] COLLABORATION with fellow designers and developers and internal stakeholders to create high-performing, responsive, and intuitive web applications
+
+(a) I had recently been working with a Madison WI based biotech startup refining their brand (beginning with a logo I had designed for them) and brand guidelines.
+
+(b) November-December 2018 via a regular Skype + Slack sessions.
+
+(c) 13 years.
+
+
+
+[2] Work with stakeholders to ANALYZE REQUIREMENTS to determine feasibility of designs within time and cost constraints
+
+(a) I recently collaborated with a biotech startup co-founder to review the brand assets I created for him (concluding in an 'all systems go') plus a 'next steps' timeline.
+
+(b) August 2018 sometime.
+
+(c) 13 years.
+
+
+
+[3] Document and promote UI DESIGN STYLE GUIDELINES, BEST PRACTICES AND STANDARDS
+
+(a) Firstly, as a regular coding practice I write notes embedded right in the HTML and CSS as a form of style guide documentation and annotation for developers to understand code quirks, found creative coding solutions or important notes on that code section .. so they can see 'hands on' where it is used in real time. I also write separate README files that contain such information. Such annotations and files include such things as:
+
+i) swatch or color palette hexadecimal values
+ii) font library info (and sources)
+iii) 'thanks to ...' notes crediting developers (usually from Stack Overflow) for helping to solve coding problems, leaving the link to the solution,
+iv) 'cheat sheet' notes to relatively new CSS properties, as the use of flex in Bootstrap v4 and Foundation v6
+
+All of the above is relevant to UI design from a front-end coding perspective.
+
+As far as a formal 'brand guide', I wrote my first formal 'brand guide' intro just recently for a biotech startup I had been working with.
+
+(b) As mentioned, I do this as part of my coding practice. And the last brand guide I wrote was early December 2018.
+
+(c) 13 years.
+
+
+
+[4] Develop new or improved VISUAL DESIGN for the product while still maintaining the brand’s language
+
+(a) I do this a LOT .. branding (or re-branding old products and ideas.) This is a core aspect of what I do visually (and enjoy doing it), translating an idea to cohesive visual assets and UI.
+
+(b) Last time: a redesign project that is current (December 2018.)
+
+(c) 13 years.
+
+
+
+[5] Work with technical leads to complete the INFORMATION ARCHITECTURE and interface development processes for production projects
+
+(a) Regular information architecture documents from a biotech startup co-founder I had been working with.
+
+(b) September 2018.
+
+(c) 13 years.
+
+
+
+[6] Translate STORYBOARDS TO UI WIREFRAMES AND MOCKUPS
+
+(a) I had been doing this with a biotech startup marketing team member in regular Skype + Slack sessions.
+
+(b) Early December 2018.
+
+(c) 13 years.
+
+
+
+[7] DESIGN UI SCREENS AND TEMPLATES to ensure browser and platform compatibility
+
+(a) I'm currently doing a redesign project, in this case using a Bootstrap-based template I'm writing to begin to bring Photoshop and Illustrator assets to life in the browser, spending a good amount of time writing media queries for small mobile devices to tablet to large screen desktop viewports.
+
+(b) Current (December 2018.)
+
+(c) 13 years.
+
+
+
+[8] Enforce UI PATTERNS AND UI COMPONENT RE-USE to ensure consistency
+
+(a) I like regularly creating icons for such use, as I'm currently doing for a redesign project.
+
+(b) Current (December 2018.)
+
+(c) 13 years.
+
+
+
+[9] Work both INDEPENDENTLY AND WITHIN A HIGHLY COLLABORATIVE TEAM in a multiple time zone environment
+
+(a) I work independently most of the time, but always in concert with client communication via Skype, Slack and Dropbox. 
+
+(b) My last multizone environment collaboration was a few days ago (early December 2018.)
+
+(c) 13 years.
+
+
+
+--------------------------------
+How would you describe your ability to do the following? [1-9] 
+--------------------------------
+
+[1] Understanding of USER-CENTERED DESIGN principles:
+
+Very good UX skills with:
+
+(a) UX research
+(b) empathy
+(c) data, user, experience and interaction driven design
+(d) design thinking
+(e) ethnography
+(f) information design and architecture
+(g) whiteboarding, pencil sketches, wireframes, storyboards .. for mobile, tablet and desktop
+(h) task analysis
+(i) ux writing
+(j) usability testing
+
+
+
+[2] Knowledge of current web, mobile and desktop RESPONSIVE DESIGN
+
+Expert .. every project I do includes 'from scratch' responsive front-end coding.
+
+
+
+[3] Ability in GRAPHIC DESIGN, including; drawing and sketching, color theory, use of texture, typography, as well as visual presentation
+
+Expert .. I studied Art at UW-Madison, so I have formal training in the foundations of art .. plus 13 years of visual design and front-end coding experience.
+
+Tools as Adobe Creative Cloud (mostly Photoshop and Illustrator), Sketch plus Bootstrap as a framework for quick mockups are my favorite tools for design + presentation.
+
+
+
+[4] Understanding of DESIGN FUNDAMENTALS including information design, visual design, industry UI standards for desktop, tablets, smartphones and web-based applications
+
+Expert .. after my art studies at UW-Madison, my 13 years of experience 'in the field' with visual design and front-end coding has given me great experience with content and information design (including analytics and SEO), all the aspects of visual design (illustration, color theory, typography and many other principles) and UI design (with a focus on user-centered design implementing all the UX principles mentioned in question #1 above.)
+
+
+
+[5] Experience in RESPONSIVE TYPOGRAPHY and building UI Design Style Guides
+
+Expert .. I have written A LOT of responsive typography, and it's in virtually every project I do (writing media queries in CSS) with very thorough browser testing in many viewport widths.
+
+I've also cultivated a regular front-end coding practice where I embed UI design style guides right in the code so a developer can see exactly where something is used in real time. I also write separate README files that exist as UI design style guides.
+
+
+
+[6] Experience building interactive prototypes in languages as HTML, CSS (SASS OR LESS), JAVASCRIPT, ANGULAR AND REACT
+
+Very expert in HTML, CSS (and JavaScript and jQuery implementation) .. and I'm currently cultivating improved skills with (React + JavaScript) and Angular. 50% of all my career skills are in front-end coding, and most of my development work is on the Bootstrap platform.
+
+The other 50% of my skills is creative as a Product Designer, which includes Visual Design (illustration, graphic design and branding), UI Design (layout and such), UX design (focusing on user behavior.)
+
+
+
+[7] Experience with current design and PROTOTYPING TOOLS: Sketch and InVision
+
+GOOD .. my 'go to' tools!
+
+
+
+[8] Experience performing in an AGILE software development project
+
+Good .. I've used the Agile methodology (Scrum) a few times:
+
+(a) San Diego-based startup - a remote project over multiple time zones where I was the design lead .. included weekly Skype meetings but otherwise all other collaboration was in Skype + Slack + Dropbox mode using SCRUM.
+
+(b) Hernandez Roofing - I worked with a developer team in the UK (with the team lead here in Wisconsin), where we'd meet monthly in person but otherwise remote collaboration was in Skype + Slack + Dropbox mode using SCRUM.
+
+(c) Local Milwaukee based electronics small business - included weekly in person meetings but otherwise remote collaboration was in Skype + Slack + Dropbox mode using SCRUM.
+
+
+
+[9] Work on previous projects using FRONT-END FRAMEWORKS with built in design guidelines like Bootstrap (for Android, iOS and web applications)
+
+Expert .. and I'd break this down into two areas:
+-- formal libraries of design guidelines (that each provide code framework + components + guidelines)
+-- 2-D versus 3-D 
+
+a) With respect to formal libraries, I'm a heavy user of BOOTSTRAP (https://getbootstrap.com/), as their component library is pretty much flat (2-D or x,y only), which is what I prefer. I'm also a big fan of FOUNDATION by Zurb (https://foundation.zurb.com/), happy to see their newest version (v6) now includes flex (https://foundation.zurb.com/sites/docs/flex-grid.html)!
+
+I've not used Google's MATERIAL DESIGN (https://material.io/), which is literally based on paper and ink and print-based design (such as 3-D or x,y,z conveyance of old school shadows and gradients), with a foundation based on flat design. I actually prefer 2D design or 'flat design' so have not used Google's Material Design framework at all. Their product MDL seems great but I've not used it either.
+
+b) Overall I gravitate towards 2D flat design, which means no old school ('paper-based') subtle 3D effects, as 2D makes for a simpler, cleaner and easier to use UI. But I can do both Google-style 3D design and Bootstrap-style, Foundation-style 2D flat design.
+
+
+
+--------------------------------
+What HOURLY RATE are you looking for?
+--------------------------------
+
+$52/hour is fine and I am flexible with that.
+
+
+
+--------------------------------
+Where can SAMPLES of your work be found?
+--------------------------------
+
+[1] ZIP FILE
+
+The attached zip file marcusgrant.zip includes the following:
+
+(a) Visual samples from my latest 4 projects: JangoBio, Peaceful Yak, Hernandez Roofing plus the pionezero redesign
+(b) My latest resume in pdf and docx formats
+(c) This entire Q & A 'experience details' document in txt, docx and pdf formats
+
+[2] LINKS
+
+And, below are links to my current home page and three samples:
+
+(a) Current home page (being redesigned .. redesign will soon include in-depth design journey stories that documents the design process):
+https://pionezero.com
+
+(b) Online resume (download links at bottom):
+https://pionezero.com/o/resume.htm
+
+(c) JangoBio
+https://pionezero.com/o/mob1.htm
+
+(d) Peaceful Yak
+https://pionezero.com/o/mob2.htm
+
+(e) Hernandez Roofing
+https://pionezero.com/o/mob3.htm
+
+
+
+--
+Marcus Grant
+Madison WI
+262-421-5780
+http://pionezero.com
+https://www.linkedin.com/in/cssninja
+https://twitter.com/cssninja
