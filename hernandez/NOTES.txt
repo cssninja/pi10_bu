@@ -1,0 +1,496 @@
+<!-- REMOVES LAPTOP LOGIN CODE -->
+    <script>
+      if(window.innerWidth < 767){
+        $('#loginv').empty();
+      }
+    </script>
+
+---
+
+TEMPORARILY DISABLED
+
+online version: is clicking logo on then off .. something not sticking
+
+<!-- TOGGLES VISIBILITY OF RIVETS AND LOGO IN MOBILE VIA id="bye" and id="bye2" -->
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("#bye,#bye2").toggle();
+    });
+});
+</script>
+
+    <!-- MAKES RIVETS AND LOGO DISAPPEAR IN TABLET AND MOBILE WHEN 3-BAR MENU CLICKED -->
+    <script src="js/transition.js"></script>
+
+
+
+
+
+
+
+
+
+WORKED >>>>>>>>>
+
+            <ul class="nav pull-right navbar-nav">
+                </li>
+                <li class="divider-vertical"></li>
+                <li class="dropdown"> <a class="dropdown-toggle" href="#" data-toggle="dropdown">Sign In <strong class="caret"></strong></a>
+                 <div class="dropdown-menu" style="padding: 10px;min-width:240px;">
+                   <form action="[YOUR ACTION]" method="post" role="form" class="form-horizontal">
+                     <input class="form-control" id="inputEmail1" placeholder="Email" type="email" style="margin-bottom:.5em">
+                     <input class="form-control" id="inputPassword1" placeholder="Password" type="password" style="margin-bottom:.5em">
+                       <div class="checkbox">
+                         <label><input type="checkbox"> Remember me</label>
+                       </div>
+                     <input class="btn btn-primary" style="margin-top:.75em;width: 100%; height: 32px; font-size: 13px;" type="submit" name="commit" value="Sign In">
+                   </form>
+                       </div>
+                 </li>
+              </ul>
+
+MODIFIED FOR ICON WORKS >>>>>>>>>>>
+
+            <div class="cog">
+            <ul class="nav pull-right navbar-nav" style="padding-right:130px !important;">
+                </li>
+                <li class="divider-vertical"></li>
+                <li class="dropdown"> <a class="dropdown-toggle" href="#" data-toggle="dropdown"><img src="img/rivets/1/cog_riv.png"></a>
+                 <div class="dropdown-menu" style="padding: 10px;min-width:240px;">
+                   <form action="[YOUR ACTION]" method="post" role="form" class="form-horizontal">
+                     <input class="form-control" id="inputEmail1" placeholder="Email" type="email" style="margin-bottom:.5em">
+                     <input class="form-control" id="inputPassword1" placeholder="Password" type="password" style="margin-bottom:.5em">
+                       <div class="checkbox">
+                         <label><input type="checkbox"> Remember me</label>
+                       </div>
+                     <input class="btn btn-danger" style="margin-top:.75em;width: 100%; height: 32px; font-size: 13px;" type="submit" name="commit" value="Sign In">
+                   </form>
+                       </div>
+                 </li>
+              </ul>
+              </div>
+
+
+SIMPLER >>>>>>>>>>
+
+      <div id+"loginv" style="height:100% !important;padding-top:50px !important;background:#912F24 !important;">
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-danger">Sign in</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
+
+
+ACCORDION >>>>>>>>>>>>>>>>
+
+<div class="accordion" id="accordion2">
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+        Collapsible Group Item #1
+      </a>
+    </div>
+  </div>
+</div>
+
+via button
+
+<button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#demo">
+  simple collapsible
+</button>
+ 
+<div id="demo" class="collapse in"> … </div>
+
+to this:
+
+<!-- LOGIN FORM, http://getbootstrap.com/2.3.2/javascript.html#collapse -->
+<div id="demo" class="collapse out" style="max-height:70px !important;width:100% !important;">
+<div class="accordion" id="accordion2">
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+        
+      <div id+"loginv" style="height:100% !important;padding:50px 0px 0px 0px !important;background:#4A4240 !important;">
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right" style="width:100% !important;text-align:right !important;">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-danger">Sign in</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
+
+      </a>
+    </div>
+  </div>
+</div>
+</div>
+
+DISABLES LOGO ONLINE FOR SOME REASON
+
+<!-- LOGIN FORM, http://getbootstrap.com/2.3.2/javascript.html#collapse -->
+<div id="loginv" class="collapse out" style="max-height:70px !important;width:100% !important;">
+<div class="accordion" id="accordion2">
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+        
+      <div style="height:100% !important;padding:50px 0px 0px 0px !important;background:#4A4240 !important;">
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right" style="width:100% !important;text-align:right !important;">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-danger">Sign in</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
+
+      </a>
+    </div>
+  </div>
+</div>
+</div>
+
+----------------------------------------
+
+/* MAY BE ABLE TO FIX HERE (ALL navbar-brand) THAT WAS MAKING IMG DISAPPEAR ONLLINE ONLY */
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+.navbar-brand:hover,
+.navbar-brand:focus {
+  text-decoration: none;
+}
+.navbar-brand > img {
+  display: block;
+}
+@media (min-width: 768px) {
+  .navbar > .container .navbar-brand,
+  .navbar > .container-fluid .navbar-brand {
+    margin-left: -15px;
+  }
+}
+
+
+
+
+.navbar-default .navbar-brand {
+  color: #777;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #5e5e5e;
+  background-color: transparent;
+}
+
+
+
+
+.navbar-inverse .navbar-brand {
+  color: #9d9d9d;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #fff;
+  background-color: transparent;
+}
+
+
+--------
+combined all
+
+.navbar-brand {
+  float: left !important;
+  height:100% !important;
+  padding: 0px !important;
+  font-size: 18px !important;
+  line-height: 20px !important;
+  text-decoration: none !important;
+}
+.navbar-brand > img {
+  display: block !important;
+}
+@media (min-width: 768px) {
+  .navbar > .container .navbar-brand,
+  .navbar > .container-fluid .navbar-brand {
+    margin-left: 0px !important;
+  }
+}
+
+
+--------------------
+OLD LOGO
+
+/* ------------------------------------- LOGO */
+@media (min-width: 768px) {
+.hrlogo {
+  position:relative !important;
+  width:100% !important;
+  /* background-image: url('../img/logo_beta.png'); */
+  /* background-repeat: no-repeat; */
+  padding:0px 0px 0px 45px !important; /* margins affect % size, padding doesn't */
+  top:-27px !important;
+  z-index:40 !important;
+ }
+}
+@media (max-width: 767px) {
+.hrlogo {
+  position:relative !important;
+  width:100% !important;
+  /* background-image: url('../img/logo_beta.png'); */
+  /* background-repeat: no-repeat; */
+  padding:0px 0px 0px 45px !important; /* margins affect % size, padding doesn't */
+  top:-27px !important;
+  z-index:40 !important;
+ }
+}
+@media (max-width: 480px) {
+.hrlogo {
+  position:relative !important;
+  width:90% !important;
+  /* background-image: url('../img/logo_beta.png'); */
+  /* background-repeat: no-repeat; */
+  padding:0px 0px 0px 25px !important; /* margins affect % size, padding doesn't */
+  top:-27px !important;
+  z-index:40 !important;
+ }
+}
+/* ------------------------------------- */
+
+
+
+------------
+LOGIN built into menu (modified version of one above)
+
+        <ul class="nav navbar-nav lato_menu navbar-right">
+          <form class="navbar-form navbar-right" style="width:100% !important;text-align:right !important;">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-danger">Sign in</button>
+          </form>
+        </ul>
+
+
+------------------
+NEW FOOTER METHOD .. but uses img src
+
+1)-------------------------------
+    <!-- FOOTER -->
+    <footer class="footer" style="background-color: #4A4140 !important;">
+        <img src="img/footer_long.jpg">
+    </footer>
+
+2)-------------------------------
+body {
+  padding:0px;
+  margin:0px 0px 300px 0px; /* FOR STICKY FOOTER */
+  font-family: 'lato-bold';
+  overflow-x: hidden !important; /* FOR STICKY FOOTER .. overflow:hidden prevents vertical scrolling */
+}
+/* body a {
+  color:#be382b !important;
+  text-decoration: none;
+} */
+/* body a:hover {
+  color:#fefed9 !important;
+  text-decoration: none;
+} */
+/* FOR STICKY FOOTER */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+3)-------------------------------
+/* STICKY FOOTER */
+-------------------------------------------------- */
+/* is at top of file
+html {
+  position: relative;
+  min-height: 100%;
+} */
+
+/* Margin bottom by footer height .. is at top of file
+body {
+  margin-bottom: 60px;
+} */
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 300px;
+  background-color: #4A4140 !important;
+  overflow-x: hidden !important;
+}
+
+.footer img {
+  position: absolute !important;
+  bottom: 0 !important;
+  height:300px;
+  overflow-x: hidden !important;
+  left:0 !important;
+  background-color: #4A4140 !important;
+  border:0 !important;
+}
+
+
+
+
+----
+OLD FOOTER METHOD .. no overflow but uses bg img
+
+    <footer class="footer stickfooter">
+      <div class="container">
+        <p class="footerfont">Hernandez Roofing LLC
+
+        <p class="footerfont">Administrative Office: 829 S. 11th Street, Milwaukee, WI 53204
+
+        <p class="footerfont">Operations Office: 1021 W. Dakota Street, Milwaukee, WI 53215
+
+        <p class="footerfont">Tel: <a href="tel://14148827714">414-882-7714</a>
+
+        <p class="footerfont">Email: <a href="mailto:gm@hernandezroof.com">gm@hernandezroof.com</a>
+      </div>
+    </footer>
+
+.stickfooter {
+  background-color:#4A4240;
+  position:absolute !important;
+  width:100% !important;
+  height:300px !important;
+  margin: 50px 0px 0px 0px !important;
+  padding:50px 0px 0px 0px !important;
+  overflow:hidden !important;
+  background: url(../img/footer_long.jpg) no-repeat 0% 0%; /* horizontal, vertical */
+}
+.footerfont {
+  color:#FFFDD7;
+  font-size: 20px !important;
+  text-align:center;
+  /*font-weight: bold;*/
+}
+.stickfooter a {
+  color:#FFFDD7;
+  text-decoration: none;
+}
+.stickfooter a:hover {
+  color:#BFBFBF;
+  text-decoration: none;
+}
+
+
+
+----
+COMBINED (uses background image)
+
+1)
+    <!-- FOOTER -->
+    <footer class="footer stickfooter" style="background: url(img/footer_long.jpg)">
+      <div class="container">
+        <p class="footerfont">Hernandez Roofing LLC
+
+        <p class="footerfont">Administrative Office: 829 S. 11th Street, Milwaukee, WI 53204
+
+        <p class="footerfont">Operations Office: 1021 W. Dakota Street, Milwaukee, WI 53215
+
+        <p class="footerfont">Tel: <a href="tel://14148827714">414-882-7714</a>
+
+        <p class="footerfont">Email: <a href="mailto:gm@hernandezroof.com">gm@hernandezroof.com</a>
+      </div>
+    </footer>
+
+2)
+body {
+  padding:0px;
+  margin:0;
+  font-family: 'lato-bold';
+  overflow-x: hidden !important; /* FOR STICKY FOOTER .. overflow:hidden prevents vertical scrolling */
+}
+/* body a {
+  color:#be382b !important;
+  text-decoration: none;
+} */
+/* body a:hover {
+  color:#fefed9 !important;
+  text-decoration: none;
+} */
+/* FOR STICKY FOOTER */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+3)
+/* STICKY FOOTER */
+-------------------------------------------------- */
+/* is at top of file
+html {
+  position: relative;
+  min-height: 100%;
+} */
+
+/* Margin bottom by footer height .. is at top of file
+body {
+  margin-bottom: 60px;
+} */
+
+.footer {
+  position: absolute;
+  bottom: 0 !important;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  max-height:300px !important;
+  background-color: #4A4140 !important;
+  overflow-x: hidden !important;
+}
+
+.footer img {
+  position: absolute !important;
+  bottom: 0 !important;
+  height:300px;
+  overflow-x: hidden !important;
+  left:0 !important;
+  background-color: #4A4140 !important;
+  border:0 !important;
+}
+
+.footerfont {
+  color:#FFFDD7;
+  font-size: 20px !important;
+  text-align:center;
+  /*font-weight: bold;*/
+}
+.stickfooter a {
+  color:#FFFDD7;
+  text-decoration: none;
+}
+.stickfooter a:hover {
+  color:#BFBFBF;
+  text-decoration: none;
+}

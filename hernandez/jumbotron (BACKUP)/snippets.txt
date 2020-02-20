@@ -1,0 +1,43 @@
+                <article class="">
+                    <header>
+                        <h1></h1>
+                        <p></p>
+                    </header>
+                    <section class="">
+                        <h2>About Us&nbsp;&nbsp;&nbsp;</h2>
+                        <p class=""></p>
+                        <p class=""></p>
+                        <p class=""></p>
+                    </section>
+                    <footer>
+                        <h3></h3>
+                        <p></p>
+                    </footer>
+                </article>
+
+
+                <article class="">
+                    <header>
+                        <h1></h1>
+                        <p></p>
+                    </header>
+                    <section class="">
+                        <h2>About Us&nbsp;&nbsp;&nbsp;</h2>
+                        <p class=""></p>
+                        <p class=""></p>
+                        <p class=""></p>
+                    </section>
+                    <footer>
+                        <h3></h3>
+                        <p></p>
+                    </footer>
+                </article>
+
+
+body a {
+  color:#bdc3c7 !important;
+}
+body a:hover {
+  color:#bdc3c7 !important;
+  text-decoration: none;
+}
