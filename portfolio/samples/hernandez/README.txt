@@ -36,5 +36,3 @@ OUTDATED PIONEZERO PORTFOLIO >
 https://pionezero.com/o/mob3.htm
 
 [ Note: The Hernandez Roofing project was done exclusively with one of the former co-owners of the company, Brian Schulz. The company has since split up. The work documented below was used the year this project was done (2015), but later because of the split was not used in its entirety. Brian went on to form a larger roofing company, where he used the CRM (customer relationship management) codebase more that the team I was wowrking with developed more than visual assets. ]
-
-![Optional Text](portfolio/samples/hernandez/rm_content/hr_large2.jpg)
