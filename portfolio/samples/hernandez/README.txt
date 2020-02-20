@@ -1,4 +1,4 @@
-![Screenshot](hr_large2.jpg)
+![hr_large2](hr_large2.jpg)
 
 Work for Brian Schulz (former co-owner of Hernandez Roofing, see note below) including the following:
 
