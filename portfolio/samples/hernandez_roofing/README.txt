@@ -1,5 +1,3 @@
-![Optional Text](rm_content/hr_large2.jpg)
-
 Work for Brian Schulz (former co-owner of Hernandez Roofing, see note below) including the following:
 
 1) branding of the business
