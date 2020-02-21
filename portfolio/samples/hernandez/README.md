@@ -11,8 +11,11 @@ Work for Brian Schulz (former co-owner of Hernandez Roofing, see note below) inc
 
 The GitHub version of the Hernansez Roofing assets is vastly more extensive than the old pionezero.com version .. SO PLEASE REFER TO GITHUB.
 
-GITHUB PORTFOLIO >
+GITHUB PORTFOLIO OF HERNANDEZ ROOFING >
 https://github.com/cssninja/pi10_bu/tree/master/portfolio/samples/hernandez
+
+GITHUB PORTFOLIO OF ALL WORK >
+https://github.com/cssninja/pi10_bu/tree/master/portfolio
 
 You will find 35 different Hernandez Roofing visual assets in GitHub, plus 2 archived websites (the beta plus the launched).
 
@@ -31,13 +34,10 @@ Assets categories include:
 12) work order graphics
 
 ARCHIVED HERNANDEZ ROOFING WEBSITES >
-
 http://pionezero.com/pi10_bu/hernandez/
-
 http://pionezero.com/pi10_bu/hernandez/beta/
 
 OUTDATED PIONEZERO PORTFOLIO >
-
 https://pionezero.com/o/mob3.htm
 
 [ Note: The Hernandez Roofing project was done exclusively with one of the former co-owners of the company, Brian Schulz. The company has since split up. The work documented below was used the year this project was done (2015), but later because of the split was not used in its entirety. Brian went on to form a larger roofing company, where he used the CRM (customer relationship management) codebase more that the team I was wowrking with developed more than visual assets. ]
