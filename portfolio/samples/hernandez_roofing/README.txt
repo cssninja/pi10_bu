@@ -33,11 +33,11 @@ Assets categories include:
 11) web viewports of full length (vertical) websites
 12) work order graphics
 
-ARCHIVED HERNANDEZ ROOFING WEBSITES ><br />
-http://pionezero.com/pi10_bu/hernandez_roofing/<br />
+ARCHIVED HERNANDEZ ROOFING WEBSITES > <br />
+http://pionezero.com/pi10_bu/hernandez_roofing/ <br />
 http://pionezero.com/pi10_bu/hernandez_roofing/beta/
 
-OUTDATED PIONEZERO PORTFOLIO ><br />
+OUTDATED PIONEZERO PORTFOLIO > <br />
 https://pionezero.com/o/mob3.htm
 
 [ Note: The Hernandez Roofing project was done exclusively with one of the former co-owners of the company, Brian Schulz. The company has since split up. The work documented below was used the year this project was done (2015), but later because of the split was not used in its entirety. Brian went on to form a larger roofing company, where he used the CRM (customer relationship management) codebase more that the team I was wowrking with developed more than visual assets. ]
