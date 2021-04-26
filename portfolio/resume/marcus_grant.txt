@@ -1,15 +1,19 @@
-Marcus Grant
+﻿Marcus Grant
 Product Designer, Developer, Startup Entrepreneur
 
-pionezero@protonmail.ch | 262-421-5780 | Madison WI
+
+pionezero@protonmail.ch | 608-520-5335 | Madison WI
 pionezero.com | linkedin.com/in/cssninja
 
+
 I’m a highly skilled product designer, utilizing visual, UI and UX design. My creative existence is absorbed in all things design: illustration, branding, UI design for mobile and desktop, and UX design. I'm a front-end coding ninja and craft Shopify stores as well. On breaks I enjoy building wooden things (alpine furniture and meditation tree houses), vegan food, and long runs in the country. I'm fully immersed and fluent in startup culture, from AI to distributed web to the ethereal mathematics that empowers it all.
+
 
 --------   Projects I Typically Do   --------
 * Product design with high visual, UI/UX appeal
 * Make mobile web and mobile app UI/UX awesome
 * Startups (UI/UX design, developer specs, pitching to investors)
+
 
 --------   Education   --------
 University of Wisconsin at Madison
@@ -17,11 +21,13 @@ Majors: Art, Physics .. Minor: Asian culture
 Madison, WI
 1998 - 2001
 
+
 --------   Relevant Experience   --------
 pi one zero labs
 Product Designer, Developer, Startup Entrepreneur
 Madison, WI
 2005 - Present
+
 
 ---   Visual Design Skills   ---
 * Mobile app UI design
@@ -30,6 +36,7 @@ Madison, WI
 * Branding
 * Print
      Go to tools: Adobe Creative Cloud
+
 
 ---   UX Design Skills   ---
 * UX and user research
@@ -48,6 +55,7 @@ Madison, WI
 * Google rank building (social media, SEO, Google algorithms, Google analytics)
      Go to tools: Adobe XD, Invision, Sketch, pencil & paper
 
+
 ---   Developer Skills   ---
 * Front-end responsive coding for smart device friendly websites using CSS (including flex), HTML, JavaScript and Bootstrap
 * Store building with Shopify backend using their templating language Liquid
@@ -59,6 +67,7 @@ Madison, WI
 * Python for quantum hybrid app development using D-Wave
      Go to tools: Atom, GitHub, Bootstrap, Shopify, Webflow
 
+
 --------   Recent Project Samples (Full port: https://t2m.io/gh5U1ryn)   --------
 [ 1 ] The Loft on Broadway (Milwaukee events and wedding venue)
 1. Full company branding: color palette, typography, illustrations, logo, web assets
@@ -67,6 +76,7 @@ Madison, WI
      Website: https://theloftonbroadway.com
      View assets in Dribbble: https://t2m.io/PsaN319k
 
+
 [ 2 ] The Factory at Barclay (Milwaukee events and wedding venue)
 3. Full company branding: color palette, typography, illustrations, logo, web assets
 4. Responsive web site in Shopify
@@ -74,11 +84,13 @@ Madison, WI
      Website: https://thefactoryonbarclay.com
      View assets in Dribbble: https://t2m.io/1sJEFfkM
 
+
 [ 3 ] The Cheesehead Factory (Foamation Inc storefront in Milwaukee)
 1. Redesign of old web site to responsive web site in Shopify
 2. Shopify-based marketing of their world famous Cheesehead hat foam products
      Date: Summer-Fall of 2019
      Website: https://cheesehead.com/
+
 
 [ 4 ] Peaceful Yak (Madison area online wellness store)
 1. Full company branding: color palette, typography, illustrations, logo, web assets
@@ -87,12 +99,14 @@ Madison, WI
      Website: in progress
      View assets in Dribbble: https://t2m.io/Fss8uvgF
 
+
 [ 5 ] JangoBio (Madison biotech startup)
 1. Full company branding: color palette, typography, illustrations, logo, web assets
 2. Responsive web site prototypes using Webflow for JangoBio and their associated research lab The Laboratory of Endocrinology, Aging and Disease
      Date: 2017
      Websites: https://t2m.io/WnpMOzph, https://t2m.io/0SgWhSK2 (archived)
      View assets in Dribbble: https://t2m.io/7LY84UJ2
+
 
 [ 6 ] Hernandez Roofing (Milwaukee roofing company)
 1. Full company branding: color palette, typography, illustrations, logo, web assets
